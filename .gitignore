@@ -7,6 +7,8 @@
 /components
 /resources
 /aot
+/pkg
+*.tgz
 
 # dependencies
 /node_modules
